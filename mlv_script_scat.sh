@@ -158,7 +158,7 @@ TS.TBT.Emax         3.0 eV
 TS.TBT.NEigen              3
 
 # Bias voltage
-TS.Voltage 0.1 eV
+TS.Voltage  $i eV
 TS.biasContour.NumPoints       10
 
 # Transiesta: electrode definition:
